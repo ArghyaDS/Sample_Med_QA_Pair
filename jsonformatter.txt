@@ -1,0 +1,12 @@
+[
+  {
+    "Instruction (Question)": "Which doctor will help if there is cardiac arrest?",
+    "Input": "",
+    "Output (Answer)": "All doctors are trained for CPR in the event of cardiac arrest. Normally an intensive care doctor or a cardiologist will look after the patients once they are admitted to the hospitals."
+  },
+  {
+    "Instruction (Question)": "How long does cardiopulmonary resuscitation of CPR continue?",
+    "Input": "",
+    "Output (Answer)": "This will depend on the cause of cardiac arrest, if known. It can vary from 10 minutes to 45 minutes."
+  }
+]
