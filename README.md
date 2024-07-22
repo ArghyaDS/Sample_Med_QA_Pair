@@ -15,7 +15,7 @@ The dataset includes 300 rows of Medical Question-Answer data, both in Bengali a
 |English_Output (Answer)|300 Answers in English|
 
 # Citation Information
-If you find this benchmark dataset helpful, please consider giving a star and citing: 
+If you find this benchmark dataset helpful, please consider giving a star and cite our paper from here: 
 
 ```
 @article{sen2024healthcare,
